@@ -1,3 +1,5 @@
+<img src="github-banne.png" width="100%" align="center" />
+
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=dcd6f7&lines=Hi+👋;I'm+Nar&center=true&size=30" /></br>
