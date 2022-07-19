@@ -1,4 +1,4 @@
-<img src="nar-gh-banner.jpg" width="100%" align="center" />
+<img src="nar-gh-banner.png" width="100%" align="center" />
 
 <h1 align="center">
   <a href="#">
