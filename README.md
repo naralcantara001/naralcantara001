@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Narcy Alcantara</h1>
 <h3 align="center">frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naralcantara001&label=Profile%20views&color=0e75b6&style=flat" alt="naralcantara001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naralcantara001&label=Profile%20views&color=0e75b6&style=flat" alt="naralcantara001" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naralcantara001" alt="naralcantara001" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/naralcantara01" target="blank"><img src="https://img.shields.io/twitter/follow/naralcantara01?logo=twitter&style=for-the-badge" alt="naralcantara01" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask2409%26quot%3b)' fill='none'%3e%3cpath d='M1243.03 184.52L1238.09 172.71 1248.52 165.29 1243.57 153.48 1254.01 146.06 1249.06 134.25 1259.5 126.83M1250.73 186.72L1245.78 174.91 1256.22 167.49 1251.27 155.68 1261.7 148.26 1256.76 136.44 1267.19 129.02' stroke='rgba(127%2c 28%2c 223%2c 1)' stroke-width='1' stroke-dasharray='3%2c 2'%3e%3c/path%3e%3cpath d='M770.0300000000001 266.46 L896.51 321.27L906.4316191232101 220.70338087678988z' fill='rgba(66%2c 72%2c 116%2c 1)'%3e%3c/path%3e%3cpath d='M28.71 2.97L32.54 15.19 21.46 21.61 25.29 33.83 14.21 40.25 18.04 52.47 6.96 58.89M21.25 0.07L25.08 12.29 14 18.71 17.84 30.93 6.76 37.35 10.59 49.57-0.49 55.99M13.8-2.83L17.63 9.39 6.55 15.81 10.38 28.03-0.7 34.45 3.13 46.67-7.95 53.09' stroke='rgba(127%2c 28%2c 223%2c 1)' stroke-width='2.18' stroke-dasharray='3%2c 3'%3e%3c/path%3e%3ccircle r='75.01243583508355' cx='1111.8' cy='461.19' stroke='rgba(127%2c 28%2c 223%2c 1)' stroke-width='1.6'%3e%3c/circle%3e%3crect width='190.72' height='190.72' clip-path='url(%26quot%3b%23SvgjsClipPath2410%26quot%3b)' x='723.97' y='87.92' fill='url(%23SvgjsPattern2411)' transform='rotate(341.02%2c 819.33%2c 183.28)'%3e%3c/rect%3e%3crect width='60' height='60' clip-path='url(%26quot%3b%23SvgjsClipPath2412%26quot%3b)' x='493.19' y='511.51' fill='url(%23SvgjsPattern2413)' transform='rotate(84.08%2c 523.19%2c 541.51)'%3e%3c/rect%3e%3cpath d='M1512.53 355.13 L1502.42 482.16L1428.4867131557644 339.65671315576446z' fill='rgba(66%2c 72%2c 116%2c 1)'%3e%3c/path%3e%3cpath d='M1094.17 494.4 L1043.57 433.45L1115.6508638063729 417.14413619362693z' fill='rgba(66%2c 72%2c 116%2c 1)'%3e%3c/path%3e%3cpath d='M231.4 305.83a5.6 5.6 0 1 0-11.11 1.44 5.6 5.6 0 1 0 11.11-1.44zM215.53 307.89a5.6 5.6 0 1 0-11.11 1.44 5.6 5.6 0 1 0 11.11-1.44zM199.66 309.95a5.6 5.6 0 1 0-11.1 1.44 5.6 5.6 0 1 0 11.1-1.44zM183.8 312.01a5.6 5.6 0 1 0-11.11 1.44 5.6 5.6 0 1 0 11.11-1.44zM261.07 285.85a5.6 5.6 0 1 0-11.1 1.44 5.6 5.6 0 1 0 11.1-1.44zM245.21 287.91a5.6 5.6 0 1 0-11.11 1.44 5.6 5.6 0 1 0 11.11-1.44zM229.34 289.97a5.6 5.6 0 1 0-11.11 1.44 5.6 5.6 0 1 0 11.11-1.44zM213.47 292.02a5.6 5.6 0 1 0-11.1 1.44 5.6 5.6 0 1 0 11.1-1.44z' stroke='rgba(127%2c 28%2c 223%2c 1)' stroke-width='1' stroke-dasharray='4%2c 4'%3e%3c/path%3e%3cpath d='M1231.98 214.31 L1299.79 65.45L1194.8375688043436 68.83256880434354z' fill='rgba(66%2c 72%2c 116%2c 1)'%3e%3c/path%3e%3ccircle r='46.666666666666664' cx='1179.36' cy='87.92' fill='rgba(127%2c 28%2c 223%2c 1)'%3e%3c/circle%3e%3crect width='324' height='324' clip-path='url(%26quot%3b%23SvgjsClipPath2414%26quot%3b)' x='-64.17' y='354.21' fill='url(%23SvgjsPattern2415)' transform='rotate(306.25%2c 97.83%2c 516.21)'%3e%3c/rect%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask2409'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpattern x='0' y='0' width='190.72' height='11.92' patternUnits='userSpaceOnUse' id='SvgjsPattern2411'%3e%3crect width='190.72' height='5.96' x='0' y='0' fill='rgba(127%2c 28%2c 223%2c 1)'%3e%3c/rect%3e%3crect width='190.72' height='5.96' x='0' y='5.96' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath2410'%3e%3ccircle r='47.68' cx='819.33' cy='183.28'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern2413'%3e%3cpath d='M0 6L3 0L6 6' stroke='rgba(66%2c 72%2c 116%2c 1)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath2412'%3e%3ccircle r='15' cx='523.19' cy='541.51'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern2415'%3e%3cpath d='M0 6L3 0L6 6' stroke='rgba(127%2c 28%2c 223%2c 1)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath2414'%3e%3ccircle r='81' cx='97.83' cy='516.21'%3e%3c/circle%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e">
 
+<p align="center"> 
 - 🌱 I’m currently learning **ReactJS**
-
+</p>
+<p align="center"> 
 - 👨‍💻 All of my projects are available at [https://naralcantara001.github.io/](https://naralcantara001.github.io/)
-
+</p>
+  <p align="center"> 
 - 📫 How to reach me **naralcantara001@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,8 +30,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&layout=compact" alt="naralcantara001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naralcantara001&show_icons=true&locale=en" alt="naralcantara001" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&layout=compact" alt="naralcantara001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naralcantara001&" alt="naralcantara001" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naralcantara001&show_icons=true&locale=en" alt="naralcantara001" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naralcantara001&" alt="naralcantara001" /></p>
