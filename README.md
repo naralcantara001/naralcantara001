@@ -30,7 +30,7 @@
 <br>
 
 
-<p align="center"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=dcd6f7&text_color=dcd6f7&hide_border=true" alt="naralcantara001" /></p>
+<p align="center"><img align="center" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=dcd6f7&text_color=dcd6f7&hide_border=true" alt="naralcantara001" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naralcantara001&show_icons=true&locale=en&theme=tokyonight&title_color=dcd6f7&text_color=dcd6f7&hide_border=true" alt="naralcantara001" /></p>
 
