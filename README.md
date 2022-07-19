@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nar</h1>
+<h2 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?color=dcd6f7&lines=Hi+👋;I'm+Nar&center=true&size=30" /></br>
+  <img src="https://komarev.com/ghpvc/?username=naralcantara001&label=Profile%20views&color=424874&style=flat-square" alt="naralcantara001" />
+  </a>
+</h2>
+
 <p align="center">
-  
 <a href="https://twitter.com/naralcantara01" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter&theme=dark" ></a>
  
@@ -15,7 +20,6 @@
  </p>
  
  <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naralcantara001&label=Profile%20views&color=0e75b6&style=flat" alt="naralcantara001" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naralcantara001" alt="naralcantara001"/></a> </p>
 
