@@ -22,7 +22,7 @@
  <br>
 
  
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
    <img src="https://skillicons.dev/icons?i=css,html,javascript,sass,react,figma&theme=dark" />
 </div>
