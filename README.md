@@ -32,8 +32,10 @@
 <br>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="naralcantara001" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=dcd6f7" alt="naralcantara001" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naralcantara001&theme=tokyonight&show_icons=true&locale=en" alt="naralcantara001" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naralcantara001&show_icons=true&locale=en&theme=tokyonight&title_color=dcd6f7" alt="naralcantara001" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naralcantara001&theme=tokyonight" alt="naralcantara001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naralcantara001&show_icons=true&locale=en&theme=tokyonight" alt="naralcantara001" /></p>
+
+
