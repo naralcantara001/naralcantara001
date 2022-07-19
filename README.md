@@ -36,6 +36,8 @@
    <img src="https://skillicons.dev/icons?i=css,html,javascript,sass,react,figma&theme=dark" />
 </div>
 <br>
+<br>
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naralcantara001&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="naralcantara001" /></p>
 
