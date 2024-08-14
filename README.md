@@ -1,4 +1,3 @@
-<img src="" width="100%" align="center" />
 
 <h1 align="center">
   <a href="#">
